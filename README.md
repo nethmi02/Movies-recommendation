@@ -23,7 +23,7 @@ The project requires the following Python libraries:
    - Fill missing values with empty strings.
    - Combine features into a single text column.
 3. Convert the text data into numerical feature vectors using `TfidfVectorizer`.
-4. Compute cosine similarity:
+4. Compute cosine similarity
 5. Get user input for a movie name and find the closest match using `difflib`.
 6. Retrieve the top 10 most similar movies and display them.
 
